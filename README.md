@@ -1,2 +1,2 @@
 # javaStudies
-An organized collection of study projects made whilie learning Java.
+About An organized collection of the study projects I made while learning Java
